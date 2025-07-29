@@ -1,88 +1,42 @@
-A fun and interactive 3D browser game built using [Three.js](https://threejs.org/). Dive into a world of action, smooth animations, and real-time 3D rendering — all from your browser.
+# 🎮 YourGameName
 
-![Game Screenshot](./screenshots/preview.png) <!-- Optional: Replace with your actual screenshot path -->
+A cool little 3D game made with **Three.js** — play it right in your browser! 🐰🐺🥕
 
----
-
-## 🎮 Live Demo
-
-[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](# Hop n Hut)
-
-A fun and interactive 3D browser game built using [Three.js](https://threejs.org/). Dive into a world of action, smooth animations, and real-time 3D rendering — all from your browser.
-
-![Game Screenshot](./screenshots/preview.png) <!-- Optional: Replace with your actual screenshot path -->
+[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](https://your-vercel-link.vercel.app)
 
 ---
 
-## 🎮 Live Demo
+## 🔧 Tech Stack
 
-[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](# Hop n Hunt )
-
-A fun and interactive 3D browser game built using [Three.js](https://threejs.org/). Dive into a world of action, smooth animations, and real-time 3D rendering — all from your browser.
-
-![Game Screenshot](./screenshots/preview.png) <!-- Optional: Replace with your actual screenshot path -->
-
----
-
-## 🎮 Live Demo
-
-[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](https://hop-n-hunt.vercel.app/)
+- **Three.js**
+- **JavaScript**
+- **HTML/CSS**
+- **Vercel** for deployment
 
 ---
 
-## 🛠️ Tech Stack
+## 🕹️ How to Play
 
-- 🧱 **Three.js** – for 3D rendering
-- 🎮 **JavaScript** – core logic and game mechanics
-- 🖼️ **HTML/CSS** – UI and styling
-- 🔗 **Vercel** – deployment
+Move, dodge, jump — avoid the obstacles and beat your high score!  
+Controls:
+- Arrow keys / WASD to move
+- Spacebar to jump (if applicable)
 
 ---
 
-## 📦 Installation (for local development)
+## 📸 Preview
+
+
+![Game Screenshot](![WhatsApp Image 2025-07-29 at 15 05 08_d8e373e1](https://github.com/user-attachments/assets/fbc169df-fdcd-483a-a574-83f620c79959)
+(![![WhatsApp Image 2025-07-29 at 15 05 24_9efc89d1](https://github.com/user-attachments/assets/8f5cbb2d-9aa5-48f8-b507-b7887e6aa448)
+
+
+---
+
+## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YourUsername/YourGameRepo.git
-cd YourGameRepo
+git clone https://github.com/aishwarya2005thakur/Hop--n--Hunt.git
+cd Hop--n--Hunt
 npm install
-npm run dev # or however you run your local server
-)
-
----
-
-## 🛠️ Tech Stack
-
-- 🧱 **Three.js** – for 3D rendering
-- 🎮 **JavaScript** – core logic and game mechanics
-- 🖼️ **HTML/CSS** – UI and styling
-- 🔗 **Vercel** – deployment
-
----
-
-## 📦 Installation (for local development)
-
-```bash
-git clone https://github.com/YourUsername/YourGameRepo.git
-cd YourGameRepo
-npm install
-npm run dev # or however you run your local server
-)
-
----
-
-## 🛠️ Tech Stack
-
-- 🧱 **Three.js** – for 3D rendering
-- 🎮 **JavaScript** – core logic and game mechanics
-- 🖼️ **HTML/CSS** – UI and styling
-- 🔗 **Vercel** – deployment
-
----
-
-## 📦 Installation (for local development)
-
-```bash
-git clone https://github.com/YourUsername/YourGameRepo.git
-cd YourGameRepo
-npm install
-npm run dev # or however you run your local server
+npm run dev
