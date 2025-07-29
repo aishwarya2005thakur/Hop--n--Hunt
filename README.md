@@ -2,7 +2,7 @@
 
 A cool little 3D game made with **Three.js** — play it right in your browser! 🐰🐺🥕
 
-[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](https://Hop-n-Hunt.vercel.app)
+[![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](https://hop-n-hunt.vercel.app)
 
 ---
 
