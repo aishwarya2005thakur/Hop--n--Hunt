@@ -1,4 +1,4 @@
-# 🎮 YourGameName
+# 🎮 Hop n Hunt 
 
 A cool little 3D game made with **Three.js** — play it right in your browser! 🐰🐺🥕
 
