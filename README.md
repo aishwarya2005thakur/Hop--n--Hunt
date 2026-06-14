@@ -4,7 +4,6 @@ A cool little 3D game made with **Three.js** — play it right in your browser! 
 
 [![Play Now](https://img.shields.io/badge/Play-Demo-blue?style=for-the-badge)](https://hop-n-hunt.vercel.app)
 
----
 
 ## 🔧 Tech Stack
 
@@ -12,8 +11,7 @@ A cool little 3D game made with **Three.js** — play it right in your browser! 
 - **JavaScript**
 - **HTML/CSS**
 - **Vercel** for deployment
-
----
+  
 
 ## 🕹️ How to Play
 
